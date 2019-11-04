@@ -218,7 +218,7 @@ class App extends Component {
 
     return (
       <div className="App">
-        <a href='http://localhost:8888' > Login to Spotify </a>
+        <a href='http://localhost:8888' > Please, Login to Spotify </a>
         <div>
           Now Playing: { this.state.nowPlaying.name }
         </div>
